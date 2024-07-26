@@ -5,8 +5,6 @@ This project is a React application that uses Redux Toolkit for state management
 ## Table of Contents
 
 - [Installation](#installation)
-- [Environment Variables](#environment-variables)
-- [Usage](#usage)
 - [Features](#features)
 - [Folder Structure](#folder-structure)
 
@@ -16,7 +14,7 @@ This project is a React application that uses Redux Toolkit for state management
 To get started with this project, clone the repository and install the necessary dependencies:
 
 
-git clone https://github.com/yourusername/your-repo-name.git
+git clone (https://github.com/Uditha20/redux_tookit_learn)
 cd your-repo-name
 npm install
 
